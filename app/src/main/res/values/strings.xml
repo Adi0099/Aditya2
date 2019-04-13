@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="something_went_wrong">Something went wrong…Please try again later!</string>
+    <string name="movie_poster">Movie Poster</string>
+
+    <string name="no_internet_message">You must have an internet connection to use this app! Please try again when you have internet access.</string>
+    <string name="refresh">Refresh</string>
+</resources>
